@@ -2,3 +2,4 @@ RENCANA BIKIN MARCH SHOP
 
 - MARCH SHOP JERSEY
   * STONE
+- stuktur data dasar
